@@ -1,3 +1,5 @@
+python 3.12 가상환경
+
 numpy == 1.26.4
 shapely == 2.0.6 
 ultralytics  == 8.3.3
